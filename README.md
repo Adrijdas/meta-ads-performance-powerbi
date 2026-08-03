@@ -12,7 +12,11 @@ The main objective is to help marketing teams identify high-performing platforms
 
 ## Dashboard Preview
 
-![Meta Ad Performance Dashboard](images/meta-ad-performance-dashboard.png)
+### Facebook Dashboard
+![Facebook Dashboard](images/Facebook_dashboard.png)
+
+### Instagram Dashboard
+![Instagram Dashboard](images/Instagram_dashboard.png)
 
 ---
 
